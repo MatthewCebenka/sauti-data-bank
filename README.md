@@ -1,6 +1,6 @@
 # sauti-data-bank
  Sauti Databank Internship
-https://www.databank.sautiafrica.org/
+https://sautiafrica.org/
 
 Sauti Databank gathers data from Kenyan, Ugandan, Rwandan, and Tanzanian cross-border traders to support your research, policy work, solution designs and more.
 React | Redux | Node | Express | Knex | MySQL
